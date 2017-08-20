@@ -1,0 +1,471 @@
+WARN [08-20|17:46:27] No etherbase set and no accounts found as default 
+INFO [08-20|17:46:27] Starting peer-to-peer node               instance=Geth/v1.6.7-stable-ab5646c5/darwin-amd64/go1.8.3
+INFO [08-20|17:46:27] Allocated cache and file handles         database=/Users/loomla/ethdev/geth/chaindata cache=128 handles=1024
+INFO [08-20|17:46:27] Writing custom genesis block 
+INFO [08-20|17:46:27] Initialised chain configuration          config="{ChainID: 1337 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Metropolis: 9223372036854775807 Engine: ethash}"
+WARN [08-20|17:46:27] Ethash used in test mode 
+WARN [08-20|17:46:27] Upgrading db log bloom bins 
+INFO [08-20|17:46:27] Bloom-bin upgrade completed              elapsed=44.797µs
+INFO [08-20|17:46:27] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [08-20|17:46:27] Loaded most recent local header          number=0 hash=e5be92…38f3bc td=131072
+INFO [08-20|17:46:27] Loaded most recent local full block      number=0 hash=e5be92…38f3bc td=131072
+INFO [08-20|17:46:27] Loaded most recent local fast block      number=0 hash=e5be92…38f3bc td=131072
+INFO [08-20|17:46:27] Starting P2P networking 
+INFO [08-20|17:46:27] started whisper v.5.0 
+INFO [08-20|17:46:27] RLPx listener up                         self="enode://f6ef3f2e125e2ece6f01180a487c31f926864617e2282fcb4152bb2f96ca8b8dc9ce2ae0a8bf65594bbd3e36e0e798915512ee0cb001846abfd001d867ccf748@[::]:56765?discport=0"
+INFO [08-20|17:46:27] IPC endpoint opened: /Users/loomla/ethdev/geth.ipc 
+INFO [08-20|17:46:27] Mapped network port                      proto=tcp extport=56765 intport=56765 interface=NAT-PMP(10.0.1.1)
+INFO [08-20|17:46:39] New wallet appeared                      url=keystore:///Users/loomla/ethdev… status=Locked
+INFO [08-20|17:46:45] Updated mining threads                   threads=0
+INFO [08-20|17:46:45] Transaction pool price threshold updated price=0
+INFO [08-20|17:46:45] Starting mining operation 
+INFO [08-20|17:46:45] Commit new mining work                   number=1 txs=0 uncles=0 elapsed=480.271µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=0 elapsed=89.784µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=1 elapsed=154.725µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=4 elapsed=532.141µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=3 elapsed=401.674µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=2 elapsed=257.325µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=5 elapsed=619.881µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=6 elapsed=709.281µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=7 elapsed=793.895µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=9 elapsed=925.553µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=10 elapsed=971.881µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=11 elapsed=1.014ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=12 elapsed=1.063ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=13 elapsed=1.106ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=14 elapsed=1.142ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=15 elapsed=1.190ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=16 elapsed=1.237ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=17 elapsed=1.268ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=18 elapsed=1.317ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=19 elapsed=1.361ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=20 elapsed=1.402ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=21 elapsed=1.447ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=22 elapsed=1.501ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=23 elapsed=1.533ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=24 elapsed=1.589ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=25 elapsed=1.626ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=26 elapsed=1.662ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=27 elapsed=1.696ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=28 elapsed=1.732ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=29 elapsed=1.770ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=30 elapsed=1.806ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=31 elapsed=1.839ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=32 elapsed=1.876ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=33 elapsed=1.917ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=34 elapsed=1.950ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=35 elapsed=1.985ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=36 elapsed=2.021ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=37 elapsed=2.059ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=38 elapsed=2.096ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=39 elapsed=2.128ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=40 elapsed=2.167ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=41 elapsed=2.206ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=41 elapsed=2.240ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=42 elapsed=2.274ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=43 elapsed=2.311ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=44 elapsed=2.354ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=45 elapsed=2.396ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=8  elapsed=847.973µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=46 elapsed=2.446ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=47 elapsed=2.492ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=48 elapsed=2.534ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=49 elapsed=2.585ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=50 elapsed=2.631ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=51 elapsed=2.670ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=52 elapsed=2.717ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=53 elapsed=2.760ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=54 elapsed=2.804ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=55 elapsed=2.847ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=56 elapsed=2.895ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=57 elapsed=2.934ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=58 elapsed=2.976ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=59 elapsed=3.016ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=61 elapsed=3.412ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=62 elapsed=3.527ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=63 elapsed=3.598ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=64 elapsed=3.667ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=65 elapsed=3.719ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=66 elapsed=3.780ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=67 elapsed=3.842ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=68 elapsed=3.898ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=60 elapsed=3.076ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=71 elapsed=4.272ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=72 elapsed=4.446ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=73 elapsed=4.613ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=74 elapsed=4.783ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=75 elapsed=4.949ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=76 elapsed=5.116ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=77 elapsed=5.294ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=78 elapsed=5.469ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=79 elapsed=5.636ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=80 elapsed=5.801ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=81 elapsed=5.969ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=82 elapsed=6.134ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=83 elapsed=6.301ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=83 elapsed=6.464ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=84 elapsed=6.642ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=85 elapsed=6.781ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=86 elapsed=6.922ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=69 elapsed=3.955ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=87 elapsed=7.095ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=88 elapsed=7.232ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=89 elapsed=7.373ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=90 elapsed=7.510ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=91 elapsed=7.673ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=92 elapsed=7.813ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=93 elapsed=7.964ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=70 elapsed=4.072ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=94 elapsed=8.132ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=95 elapsed=8.289ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=96 elapsed=8.443ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=97 elapsed=8.582ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=98 elapsed=8.738ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=0 percentage=99 elapsed=8.901ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=0  elapsed=215.604µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=2  elapsed=420.897µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=3  elapsed=471.982µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=4  elapsed=573.654µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=5  elapsed=823.566µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=6  elapsed=883.593µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=7  elapsed=940.012µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=8  elapsed=995.839µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=9  elapsed=1.051ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=10 elapsed=1.103ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=11 elapsed=1.157ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=12 elapsed=1.212ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=13 elapsed=1.264ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=14 elapsed=1.319ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=15 elapsed=1.373ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=16 elapsed=1.426ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=17 elapsed=1.480ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=18 elapsed=1.535ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=19 elapsed=1.586ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=20 elapsed=1.640ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=21 elapsed=1.695ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=22 elapsed=1.749ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=23 elapsed=1.802ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=24 elapsed=1.855ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=25 elapsed=1.909ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=26 elapsed=1.962ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=27 elapsed=2.018ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=28 elapsed=2.071ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=29 elapsed=2.127ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=30 elapsed=2.181ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=31 elapsed=2.239ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=32 elapsed=2.297ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=33 elapsed=2.366ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=34 elapsed=2.428ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=35 elapsed=2.483ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=36 elapsed=2.540ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=37 elapsed=2.593ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=38 elapsed=2.648ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=39 elapsed=2.720ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=40 elapsed=2.777ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=41 elapsed=2.833ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=41 elapsed=2.887ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=42 elapsed=2.940ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=43 elapsed=2.996ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=44 elapsed=3.050ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=45 elapsed=3.103ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=46 elapsed=3.156ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=47 elapsed=3.212ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=48 elapsed=3.267ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=49 elapsed=3.319ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=1  elapsed=311.651µs
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=50 elapsed=3.391ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=51 elapsed=3.458ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=52 elapsed=3.516ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=53 elapsed=3.572ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=54 elapsed=3.644ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=55 elapsed=3.700ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=56 elapsed=3.752ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=57 elapsed=3.805ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=58 elapsed=3.860ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=59 elapsed=3.914ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=60 elapsed=3.966ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=61 elapsed=4.020ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=62 elapsed=4.074ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=63 elapsed=4.129ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=64 elapsed=4.180ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=65 elapsed=4.262ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=66 elapsed=4.315ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=67 elapsed=4.369ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=68 elapsed=4.422ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=69 elapsed=4.508ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=70 elapsed=4.568ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=71 elapsed=4.624ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=72 elapsed=4.690ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=73 elapsed=4.745ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=74 elapsed=4.800ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=75 elapsed=4.854ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=76 elapsed=4.927ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=77 elapsed=4.980ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=78 elapsed=5.036ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=79 elapsed=5.169ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=80 elapsed=5.237ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=81 elapsed=5.291ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=82 elapsed=5.364ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=83 elapsed=5.420ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=83 elapsed=5.483ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=84 elapsed=5.536ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=85 elapsed=5.608ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=86 elapsed=5.667ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=87 elapsed=5.721ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=88 elapsed=5.774ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=89 elapsed=5.825ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=90 elapsed=5.887ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=91 elapsed=5.943ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=92 elapsed=5.999ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=93 elapsed=6.053ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=94 elapsed=6.105ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=95 elapsed=6.160ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=96 elapsed=6.217ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=97 elapsed=6.270ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=98 elapsed=6.324ms
+INFO [08-20|17:46:45] Generating DAG in progress               epoch=1 percentage=99 elapsed=6.377ms
+INFO [08-20|17:46:46] Successfully sealed new block            number=1 hash=6cf254…70561a
+INFO [08-20|17:46:46] 🔨 mined potential block                  number=1 hash=6cf254…70561a
+INFO [08-20|17:46:46] Commit new mining work                   number=2 txs=0 uncles=0 elapsed=315.782µs
+INFO [08-20|17:46:46] Successfully sealed new block            number=2 hash=f7ab70…7fefa8
+INFO [08-20|17:46:46] 🔨 mined potential block                  number=2 hash=f7ab70…7fefa8
+INFO [08-20|17:46:46] Commit new mining work                   number=3 txs=0 uncles=0 elapsed=227.217µs
+INFO [08-20|17:46:46] Successfully sealed new block            number=3 hash=54067f…eeec6e
+INFO [08-20|17:46:46] 🔨 mined potential block                  number=3 hash=54067f…eeec6e
+INFO [08-20|17:46:46] Mining too far in the future             wait=2s
+INFO [08-20|17:46:48] Commit new mining work                   number=4 txs=0 uncles=0 elapsed=2.001s
+INFO [08-20|17:46:48] Successfully sealed new block            number=4 hash=07bcf5…43e3f8
+INFO [08-20|17:46:48] 🔨 mined potential block                  number=4 hash=07bcf5…43e3f8
+INFO [08-20|17:46:48] Commit new mining work                   number=5 txs=0 uncles=0 elapsed=238.481µs
+INFO [08-20|17:46:48] Successfully sealed new block            number=5 hash=f8bc57…3b8473
+INFO [08-20|17:46:48] 🔨 mined potential block                  number=5 hash=f8bc57…3b8473
+INFO [08-20|17:46:48] Mining too far in the future             wait=2s
+INFO [08-20|17:46:50] Commit new mining work                   number=6 txs=0 uncles=0 elapsed=2.000s
+INFO [08-20|17:46:55] Successfully sealed new block            number=6 hash=6089af…5549a6
+INFO [08-20|17:46:55] 🔗 block reached canonical chain          number=1 hash=6cf254…70561a
+INFO [08-20|17:46:55] 🔨 mined potential block                  number=6 hash=6089af…5549a6
+INFO [08-20|17:46:55] Commit new mining work                   number=7 txs=0 uncles=0 elapsed=348.156µs
+INFO [08-20|17:46:55] Successfully sealed new block            number=7 hash=c1b171…46375d
+INFO [08-20|17:46:55] 🔗 block reached canonical chain          number=2 hash=f7ab70…7fefa8
+INFO [08-20|17:46:55] 🔨 mined potential block                  number=7 hash=c1b171…46375d
+INFO [08-20|17:46:55] Commit new mining work                   number=8 txs=0 uncles=0 elapsed=196.946µs
+INFO [08-20|17:46:56] Successfully sealed new block            number=8 hash=b7db55…c1d8b4
+INFO [08-20|17:46:56] 🔗 block reached canonical chain          number=3 hash=54067f…eeec6e
+INFO [08-20|17:46:56] 🔨 mined potential block                  number=8 hash=b7db55…c1d8b4
+INFO [08-20|17:46:56] Commit new mining work                   number=9 txs=0 uncles=0 elapsed=290.357µs
+INFO [08-20|17:46:56] Successfully sealed new block            number=9 hash=bfec0d…c5ee3e
+INFO [08-20|17:46:56] 🔗 block reached canonical chain          number=4 hash=07bcf5…43e3f8
+INFO [08-20|17:46:56] 🔨 mined potential block                  number=9 hash=bfec0d…c5ee3e
+INFO [08-20|17:46:56] Mining too far in the future             wait=2s
+INFO [08-20|17:46:58] Commit new mining work                   number=10 txs=0 uncles=0 elapsed=2.001s
+INFO [08-20|17:46:59] Successfully sealed new block            number=10 hash=488dbf…687e3d
+INFO [08-20|17:46:59] 🔗 block reached canonical chain          number=5  hash=f8bc57…3b8473
+INFO [08-20|17:46:59] 🔨 mined potential block                  number=10 hash=488dbf…687e3d
+INFO [08-20|17:46:59] Commit new mining work                   number=11 txs=0 uncles=0 elapsed=236.963µs
+INFO [08-20|17:46:59] Successfully sealed new block            number=11 hash=11bc55…184ba6
+INFO [08-20|17:46:59] 🔗 block reached canonical chain          number=6  hash=6089af…5549a6
+INFO [08-20|17:46:59] 🔨 mined potential block                  number=11 hash=11bc55…184ba6
+INFO [08-20|17:46:59] Commit new mining work                   number=12 txs=0 uncles=0 elapsed=266.868µs
+INFO [08-20|17:47:00] Successfully sealed new block            number=12 hash=21d55f…b4602f
+INFO [08-20|17:47:00] 🔗 block reached canonical chain          number=7  hash=c1b171…46375d
+INFO [08-20|17:47:00] 🔨 mined potential block                  number=12 hash=21d55f…b4602f
+INFO [08-20|17:47:00] Commit new mining work                   number=13 txs=0 uncles=0 elapsed=206.855µs
+INFO [08-20|17:47:00] Successfully sealed new block            number=13 hash=8de5a8…601dd6
+INFO [08-20|17:47:00] 🔗 block reached canonical chain          number=8  hash=b7db55…c1d8b4
+INFO [08-20|17:47:00] 🔨 mined potential block                  number=13 hash=8de5a8…601dd6
+INFO [08-20|17:47:00] Mining too far in the future             wait=2s
+INFO [08-20|17:47:02] Commit new mining work                   number=14 txs=0 uncles=0 elapsed=2.001s
+INFO [08-20|17:47:03] Successfully sealed new block            number=14 hash=c069a8…cbf02e
+INFO [08-20|17:47:03] 🔗 block reached canonical chain          number=9  hash=bfec0d…c5ee3e
+INFO [08-20|17:47:03] 🔨 mined potential block                  number=14 hash=c069a8…cbf02e
+INFO [08-20|17:47:03] Commit new mining work                   number=15 txs=0 uncles=0 elapsed=184.26µs
+INFO [08-20|17:47:03] Successfully sealed new block            number=15 hash=480fa1…5686a3
+INFO [08-20|17:47:03] 🔗 block reached canonical chain          number=10 hash=488dbf…687e3d
+INFO [08-20|17:47:03] 🔨 mined potential block                  number=15 hash=480fa1…5686a3
+INFO [08-20|17:47:03] Commit new mining work                   number=16 txs=0 uncles=0 elapsed=216.173µs
+INFO [08-20|17:47:04] Successfully sealed new block            number=16 hash=c27fc6…aa2946
+INFO [08-20|17:47:04] 🔗 block reached canonical chain          number=11 hash=11bc55…184ba6
+INFO [08-20|17:47:04] 🔨 mined potential block                  number=16 hash=c27fc6…aa2946
+INFO [08-20|17:47:04] Commit new mining work                   number=17 txs=0 uncles=0 elapsed=213.98µs
+INFO [08-20|17:47:05] Successfully sealed new block            number=17 hash=848c23…e71ba8
+INFO [08-20|17:47:05] 🔗 block reached canonical chain          number=12 hash=21d55f…b4602f
+INFO [08-20|17:47:05] 🔨 mined potential block                  number=17 hash=848c23…e71ba8
+INFO [08-20|17:47:05] Commit new mining work                   number=18 txs=0 uncles=0 elapsed=619.97µs
+INFO [08-20|17:47:05] Successfully sealed new block            number=18 hash=afda51…7d721d
+INFO [08-20|17:47:05] 🔗 block reached canonical chain          number=13 hash=8de5a8…601dd6
+INFO [08-20|17:47:05] 🔨 mined potential block                  number=18 hash=afda51…7d721d
+INFO [08-20|17:47:05] Mining too far in the future             wait=2s
+INFO [08-20|17:47:07] Commit new mining work                   number=19 txs=0 uncles=0 elapsed=2.004s
+INFO [08-20|17:47:07] Successfully sealed new block            number=19 hash=09a1cd…e7532a
+INFO [08-20|17:47:07] 🔗 block reached canonical chain          number=14 hash=c069a8…cbf02e
+INFO [08-20|17:47:07] 🔨 mined potential block                  number=19 hash=09a1cd…e7532a
+INFO [08-20|17:47:07] Commit new mining work                   number=20 txs=0 uncles=0 elapsed=182.336µs
+INFO [08-20|17:47:08] Successfully sealed new block            number=20 hash=ed19d5…e437b2
+INFO [08-20|17:47:08] 🔗 block reached canonical chain          number=15 hash=480fa1…5686a3
+INFO [08-20|17:47:08] 🔨 mined potential block                  number=20 hash=ed19d5…e437b2
+INFO [08-20|17:47:08] Commit new mining work                   number=21 txs=0 uncles=0 elapsed=162.175µs
+INFO [08-20|17:47:08] Successfully sealed new block            number=21 hash=706821…b63cac
+INFO [08-20|17:47:08] 🔗 block reached canonical chain          number=16 hash=c27fc6…aa2946
+INFO [08-20|17:47:08] 🔨 mined potential block                  number=21 hash=706821…b63cac
+INFO [08-20|17:47:08] Mining too far in the future             wait=2s
+INFO [08-20|17:47:10] Commit new mining work                   number=22 txs=0 uncles=0 elapsed=2.005s
+INFO [08-20|17:47:10] Successfully sealed new block            number=22 hash=c92d4f…1b1b91
+INFO [08-20|17:47:10] 🔗 block reached canonical chain          number=17 hash=848c23…e71ba8
+INFO [08-20|17:47:10] 🔨 mined potential block                  number=22 hash=c92d4f…1b1b91
+INFO [08-20|17:47:10] Commit new mining work                   number=23 txs=0 uncles=0 elapsed=178.426µs
+INFO [08-20|17:47:12] Successfully sealed new block            number=23 hash=9ff2c1…16ca2a
+INFO [08-20|17:47:12] 🔗 block reached canonical chain          number=18 hash=afda51…7d721d
+INFO [08-20|17:47:12] 🔨 mined potential block                  number=23 hash=9ff2c1…16ca2a
+INFO [08-20|17:47:12] Commit new mining work                   number=24 txs=0 uncles=0 elapsed=481.441µs
+INFO [08-20|17:47:13] Successfully sealed new block            number=24 hash=c26906…e43b79
+INFO [08-20|17:47:13] 🔗 block reached canonical chain          number=19 hash=09a1cd…e7532a
+INFO [08-20|17:47:13] 🔨 mined potential block                  number=24 hash=c26906…e43b79
+INFO [08-20|17:47:13] Commit new mining work                   number=25 txs=0 uncles=0 elapsed=329.454µs
+INFO [08-20|17:47:14] Successfully sealed new block            number=25 hash=9fcf5e…a9bb19
+INFO [08-20|17:47:14] 🔗 block reached canonical chain          number=20 hash=ed19d5…e437b2
+INFO [08-20|17:47:14] 🔨 mined potential block                  number=25 hash=9fcf5e…a9bb19
+INFO [08-20|17:47:14] Commit new mining work                   number=26 txs=0 uncles=0 elapsed=242.92µs
+INFO [08-20|17:47:14] Successfully sealed new block            number=26 hash=15aa9e…bd6773
+INFO [08-20|17:47:14] 🔗 block reached canonical chain          number=21 hash=706821…b63cac
+INFO [08-20|17:47:14] 🔨 mined potential block                  number=26 hash=15aa9e…bd6773
+INFO [08-20|17:47:14] Commit new mining work                   number=27 txs=0 uncles=0 elapsed=271.161µs
+INFO [08-20|17:47:14] Successfully sealed new block            number=27 hash=8bfeff…a00641
+INFO [08-20|17:47:14] 🔗 block reached canonical chain          number=22 hash=c92d4f…1b1b91
+INFO [08-20|17:47:14] 🔨 mined potential block                  number=27 hash=8bfeff…a00641
+INFO [08-20|17:47:14] Mining too far in the future             wait=2s
+INFO [08-20|17:47:16] Commit new mining work                   number=28 txs=0 uncles=0 elapsed=2.003s
+INFO [08-20|17:47:19] Successfully sealed new block            number=28 hash=cb5db5…50a5f3
+INFO [08-20|17:47:19] 🔗 block reached canonical chain          number=23 hash=9ff2c1…16ca2a
+INFO [08-20|17:47:19] 🔨 mined potential block                  number=28 hash=cb5db5…50a5f3
+INFO [08-20|17:47:19] Commit new mining work                   number=29 txs=0 uncles=0 elapsed=167.698µs
+INFO [08-20|17:47:19] Successfully sealed new block            number=29 hash=a20022…ce4ae0
+INFO [08-20|17:47:19] 🔗 block reached canonical chain          number=24 hash=c26906…e43b79
+INFO [08-20|17:47:19] 🔨 mined potential block                  number=29 hash=a20022…ce4ae0
+INFO [08-20|17:47:19] Commit new mining work                   number=30 txs=0 uncles=0 elapsed=226.342µs
+INFO [08-20|17:47:21] Successfully sealed new block            number=30 hash=bfd6d8…c4e570
+INFO [08-20|17:47:21] 🔗 block reached canonical chain          number=25 hash=9fcf5e…a9bb19
+INFO [08-20|17:47:21] 🔨 mined potential block                  number=30 hash=bfd6d8…c4e570
+INFO [08-20|17:47:21] Commit new mining work                   number=31 txs=0 uncles=0 elapsed=268.256µs
+INFO [08-20|17:47:22] Successfully sealed new block            number=31 hash=e82a2d…294088
+INFO [08-20|17:47:22] 🔗 block reached canonical chain          number=26 hash=15aa9e…bd6773
+INFO [08-20|17:47:22] 🔨 mined potential block                  number=31 hash=e82a2d…294088
+INFO [08-20|17:47:22] Commit new mining work                   number=32 txs=0 uncles=0 elapsed=229.413µs
+INFO [08-20|17:47:22] Successfully sealed new block            number=32 hash=924ff2…aa28e2
+INFO [08-20|17:47:22] 🔗 block reached canonical chain          number=27 hash=8bfeff…a00641
+INFO [08-20|17:47:22] 🔨 mined potential block                  number=32 hash=924ff2…aa28e2
+INFO [08-20|17:47:22] Commit new mining work                   number=33 txs=0 uncles=0 elapsed=187.631µs
+INFO [08-20|17:47:27] Successfully sealed new block            number=33 hash=0354e5…54e933
+INFO [08-20|17:47:27] 🔗 block reached canonical chain          number=28 hash=cb5db5…50a5f3
+INFO [08-20|17:47:27] 🔨 mined potential block                  number=33 hash=0354e5…54e933
+INFO [08-20|17:47:27] Commit new mining work                   number=34 txs=0 uncles=0 elapsed=281.345µs
+INFO [08-20|17:47:27] Successfully sealed new block            number=34 hash=3c6aa2…d30c57
+INFO [08-20|17:47:27] 🔗 block reached canonical chain          number=29 hash=a20022…ce4ae0
+INFO [08-20|17:47:27] 🔨 mined potential block                  number=34 hash=3c6aa2…d30c57
+INFO [08-20|17:47:27] Commit new mining work                   number=35 txs=0 uncles=0 elapsed=261.255µs
+INFO [08-20|17:47:27] Successfully sealed new block            number=35 hash=a2cf7d…7877a5
+INFO [08-20|17:47:27] 🔗 block reached canonical chain          number=30 hash=bfd6d8…c4e570
+INFO [08-20|17:47:27] 🔨 mined potential block                  number=35 hash=a2cf7d…7877a5
+INFO [08-20|17:47:27] Mining too far in the future             wait=2s
+INFO [08-20|17:47:29] Commit new mining work                   number=36 txs=0 uncles=0 elapsed=2.001s
+INFO [08-20|17:47:30] Successfully sealed new block            number=36 hash=01c759…bf56c6
+INFO [08-20|17:47:30] 🔗 block reached canonical chain          number=31 hash=e82a2d…294088
+INFO [08-20|17:47:30] 🔨 mined potential block                  number=36 hash=01c759…bf56c6
+INFO [08-20|17:47:30] Commit new mining work                   number=37 txs=0 uncles=0 elapsed=239.212µs
+INFO [08-20|17:47:30] Successfully sealed new block            number=37 hash=db05e5…1cabd7
+INFO [08-20|17:47:30] 🔗 block reached canonical chain          number=32 hash=924ff2…aa28e2
+INFO [08-20|17:47:30] 🔨 mined potential block                  number=37 hash=db05e5…1cabd7
+INFO [08-20|17:47:30] Commit new mining work                   number=38 txs=0 uncles=0 elapsed=143.513µs
+INFO [08-20|17:47:31] Successfully sealed new block            number=38 hash=dd0777…53c2df
+INFO [08-20|17:47:31] 🔗 block reached canonical chain          number=33 hash=0354e5…54e933
+INFO [08-20|17:47:31] 🔨 mined potential block                  number=38 hash=dd0777…53c2df
+INFO [08-20|17:47:31] Commit new mining work                   number=39 txs=0 uncles=0 elapsed=279.632µs
+INFO [08-20|17:47:31] Successfully sealed new block            number=39 hash=3351e3…490b4b
+INFO [08-20|17:47:31] 🔗 block reached canonical chain          number=34 hash=3c6aa2…d30c57
+INFO [08-20|17:47:31] 🔨 mined potential block                  number=39 hash=3351e3…490b4b
+INFO [08-20|17:47:31] Mining too far in the future             wait=2s
+INFO [08-20|17:47:33] Commit new mining work                   number=40 txs=0 uncles=0 elapsed=2.003s
+INFO [08-20|17:47:33] Successfully sealed new block            number=40 hash=9c9c78…010f13
+INFO [08-20|17:47:33] 🔗 block reached canonical chain          number=35 hash=a2cf7d…7877a5
+INFO [08-20|17:47:33] 🔨 mined potential block                  number=40 hash=9c9c78…010f13
+INFO [08-20|17:47:33] Commit new mining work                   number=41 txs=0 uncles=0 elapsed=254.87µs
+INFO [08-20|17:47:34] Successfully sealed new block            number=41 hash=5691e4…6f16cc
+INFO [08-20|17:47:34] 🔗 block reached canonical chain          number=36 hash=01c759…bf56c6
+INFO [08-20|17:47:34] 🔨 mined potential block                  number=41 hash=5691e4…6f16cc
+INFO [08-20|17:47:34] Commit new mining work                   number=42 txs=0 uncles=0 elapsed=183.822µs
+INFO [08-20|17:47:34] Successfully sealed new block            number=42 hash=33e6c3…b2df8e
+INFO [08-20|17:47:34] 🔗 block reached canonical chain          number=37 hash=db05e5…1cabd7
+INFO [08-20|17:47:34] 🔨 mined potential block                  number=42 hash=33e6c3…b2df8e
+INFO [08-20|17:47:34] Mining too far in the future             wait=2s
+INFO [08-20|17:47:36] Commit new mining work                   number=43 txs=0 uncles=0 elapsed=2.002s
+INFO [08-20|17:47:38] Successfully sealed new block            number=43 hash=e3e29e…79418e
+INFO [08-20|17:47:38] 🔗 block reached canonical chain          number=38 hash=dd0777…53c2df
+INFO [08-20|17:47:38] 🔨 mined potential block                  number=43 hash=e3e29e…79418e
+INFO [08-20|17:47:38] Commit new mining work                   number=44 txs=0 uncles=0 elapsed=186.604µs
+INFO [08-20|17:47:41] Successfully sealed new block            number=44 hash=a0240c…a6df90
+INFO [08-20|17:47:41] 🔗 block reached canonical chain          number=39 hash=3351e3…490b4b
+INFO [08-20|17:47:41] 🔨 mined potential block                  number=44 hash=a0240c…a6df90
+INFO [08-20|17:47:41] Commit new mining work                   number=45 txs=0 uncles=0 elapsed=256.997µs
+INFO [08-20|17:47:42] Successfully sealed new block            number=45 hash=b55397…2d06df
+INFO [08-20|17:47:42] 🔗 block reached canonical chain          number=40 hash=9c9c78…010f13
+INFO [08-20|17:47:42] 🔨 mined potential block                  number=45 hash=b55397…2d06df
+INFO [08-20|17:47:42] Commit new mining work                   number=46 txs=0 uncles=0 elapsed=327.291µs
+INFO [08-20|17:47:42] Successfully sealed new block            number=46 hash=c034dc…7411e8
+INFO [08-20|17:47:42] 🔗 block reached canonical chain          number=41 hash=5691e4…6f16cc
+INFO [08-20|17:47:42] 🔨 mined potential block                  number=46 hash=c034dc…7411e8
+INFO [08-20|17:47:42] Commit new mining work                   number=47 txs=0 uncles=0 elapsed=229.012µs
+INFO [08-20|17:47:44] Successfully sealed new block            number=47 hash=84f171…ee70a2
+INFO [08-20|17:47:44] 🔗 block reached canonical chain          number=42 hash=33e6c3…b2df8e
+INFO [08-20|17:47:44] 🔨 mined potential block                  number=47 hash=84f171…ee70a2
+INFO [08-20|17:47:44] Commit new mining work                   number=48 txs=0 uncles=0 elapsed=271.963µs
+INFO [08-20|17:47:46] Successfully sealed new block            number=48 hash=f32938…698f63
+INFO [08-20|17:47:46] 🔗 block reached canonical chain          number=43 hash=e3e29e…79418e
+INFO [08-20|17:47:46] 🔨 mined potential block                  number=48 hash=f32938…698f63
+INFO [08-20|17:47:46] Commit new mining work                   number=49 txs=0 uncles=0 elapsed=718.22µs
+INFO [08-20|17:47:47] Successfully sealed new block            number=49 hash=c4e448…b707dd
+INFO [08-20|17:47:47] 🔗 block reached canonical chain          number=44 hash=a0240c…a6df90
+INFO [08-20|17:47:47] 🔨 mined potential block                  number=49 hash=c4e448…b707dd
+INFO [08-20|17:47:47] Commit new mining work                   number=50 txs=0 uncles=0 elapsed=242.065µs
+INFO [08-20|17:47:49] Successfully sealed new block            number=50 hash=f63e13…2b5e24
+INFO [08-20|17:47:49] 🔗 block reached canonical chain          number=45 hash=b55397…2d06df
+INFO [08-20|17:47:49] 🔨 mined potential block                  number=50 hash=f63e13…2b5e24
+INFO [08-20|17:47:49] Commit new mining work                   number=51 txs=0 uncles=0 elapsed=241.763µs
+INFO [08-20|17:47:50] Successfully sealed new block            number=51 hash=a36323…e02d47
+INFO [08-20|17:47:50] 🔗 block reached canonical chain          number=46 hash=c034dc…7411e8
+INFO [08-20|17:47:50] 🔨 mined potential block                  number=51 hash=a36323…e02d47
+INFO [08-20|17:47:50] Commit new mining work                   number=52 txs=0 uncles=0 elapsed=255.323µs
+INFO [08-20|17:47:50] Successfully sealed new block            number=52 hash=e6216a…9aeb54
+INFO [08-20|17:47:50] 🔗 block reached canonical chain          number=47 hash=84f171…ee70a2
+INFO [08-20|17:47:50] 🔨 mined potential block                  number=52 hash=e6216a…9aeb54
+INFO [08-20|17:47:50] Commit new mining work                   number=53 txs=0 uncles=0 elapsed=442.477µs
+INFO [08-20|17:47:50] Successfully sealed new block            number=53 hash=7d9eae…1da0e3
+INFO [08-20|17:47:50] 🔗 block reached canonical chain          number=48 hash=f32938…698f63
+INFO [08-20|17:47:50] 🔨 mined potential block                  number=53 hash=7d9eae…1da0e3
+INFO [08-20|17:47:50] Mining too far in the future             wait=2s
+INFO [08-20|17:47:52] Commit new mining work                   number=54 txs=0 uncles=0 elapsed=2.000s
+INFO [08-20|17:47:54] Successfully sealed new block            number=54 hash=da1e04…84c722
+INFO [08-20|17:47:54] 🔗 block reached canonical chain          number=49 hash=c4e448…b707dd
+INFO [08-20|17:47:54] 🔨 mined potential block                  number=54 hash=da1e04…84c722
+INFO [08-20|17:47:54] Commit new mining work                   number=55 txs=0 uncles=0 elapsed=313.279µs
+INFO [08-20|17:47:55] Successfully sealed new block            number=55 hash=39fed9…38c3ff
+INFO [08-20|17:47:55] 🔗 block reached canonical chain          number=50 hash=f63e13…2b5e24
+INFO [08-20|17:47:55] 🔨 mined potential block                  number=55 hash=39fed9…38c3ff
+INFO [08-20|17:47:55] Commit new mining work                   number=56 txs=0 uncles=0 elapsed=219.348µs
+INFO [08-20|17:47:55] Successfully sealed new block            number=56 hash=ce7d67…6b6e9a
+INFO [08-20|17:47:55] 🔗 block reached canonical chain          number=51 hash=a36323…e02d47
+INFO [08-20|17:47:55] 🔨 mined potential block                  number=56 hash=ce7d67…6b6e9a
+INFO [08-20|17:47:55] Commit new mining work                   number=57 txs=0 uncles=0 elapsed=217.699µs
+INFO [08-20|17:47:56] Successfully sealed new block            number=57 hash=e1adbe…966654
+INFO [08-20|17:47:56] 🔗 block reached canonical chain          number=52 hash=e6216a…9aeb54
+INFO [08-20|17:47:56] 🔨 mined potential block                  number=57 hash=e1adbe…966654
+INFO [08-20|17:47:56] Commit new mining work                   number=58 txs=0 uncles=0 elapsed=205.061µs
+INFO [08-20|17:47:57] Successfully sealed new block            number=58 hash=ade9e5…91dd5b
+INFO [08-20|17:47:57] 🔗 block reached canonical chain          number=53 hash=7d9eae…1da0e3
+INFO [08-20|17:47:57] 🔨 mined potential block                  number=58 hash=ade9e5…91dd5b
+INFO [08-20|17:47:57] Commit new mining work                   number=59 txs=0 uncles=0 elapsed=325.451µs
+INFO [08-20|17:56:25] IPC endpoint closed: /Users/loomla/ethdev/geth.ipc 
+INFO [08-20|17:56:25] Blockchain manager stopped 
+INFO [08-20|17:56:25] Stopping Ethereum protocol 
+INFO [08-20|17:56:25] Ethereum protocol stopped 
+INFO [08-20|17:56:25] Transaction pool stopped 
+INFO [08-20|17:56:25] Database closed                          database=/Users/loomla/ethdev/geth/chaindata
+INFO [08-20|17:56:25] whisper stopped 

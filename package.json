@@ -5,5 +5,8 @@
   "dependencies": {
     "solium": "^0.5.4",
     "truffle-wallet-provider": "^0.0.4"
+  },
+  "devDependencies": {
+    "truffle": "^3.4.9"
   }
 }
